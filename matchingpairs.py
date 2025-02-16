@@ -15,7 +15,7 @@ def capture_and_ocr():
    reader = easyocr.Reader(['en', 'fr'])  # English and French
 
    # Perform OCR using EasyOCR
-   results = reader.readtext(np.array(img), min_size=0)
+   results = reader.readtext(np.array(img), min_size=5)
 
    # Print the detected text and bounding boxes
    for (bbox, text, prob) in results:
@@ -41,11 +41,39 @@ def detect_columns(results):
 
    # 2. Iterate through the results and assign words to columns
    for bbox, text, prob in results:
-       x_coord = bbox[0][0] # Top-left x coordinate
-       if x_coord < average_x:
-           english_words.append((text, bbox))
-       else:
-           french_words.append((text, bbox))
+      pos = -1
+      x_coord = bbox[0][0] # Top-left x coordinate
+      y_coord = bbox[0][1] 
+
+      # print(f"{text} : ({x_coord} , {y_coord})")
+
+      if x_coord < average_x:
+         if 1 <= y_coord <= 60:
+            pos = 1
+         elif 60 <= y_coord <= 120:
+            pos = 2
+         elif 120 <= y_coord <= 180:
+            pos = 3
+         elif 180 <= y_coord <= 240:
+            pos = 4
+         elif 240 <= y_coord <= 300:
+            pos = 5
+
+         english_words.append((text, pos))
+
+      else:
+         if 1 <= y_coord <= 60:
+            pos = 6
+         elif 60 <= y_coord <= 120:
+            pos = 7
+         elif 120 <= y_coord <= 180:
+            pos = 8
+         elif 180 <= y_coord <= 240:
+            pos = 9
+         elif 240 <= y_coord <= 300:
+            pos = 0
+           
+         french_words.append((text, pos))
 
    return english_words, french_words
 
@@ -68,16 +96,16 @@ def translate_and_match(english_col, french_col, translation_library):
    missing_translations = []
    mismatched_translations = []
 
-   for english_word, english_bbox in english_col:
+   for english_word, english_pos in english_col:
        english_word_lower = english_word.strip().lower()  # Normalize to lowercase
        if english_word_lower in translation_library:
            expected_french_word = translation_library[english_word_lower]
            # Find if expected_french_word exists in french_col
            found_match = False
-           for french_word, french_bbox in french_col:
+           for french_word, french_pos in french_col:
                french_word_lower = french_word.strip().lower()
                if expected_french_word == french_word_lower:
-                   matched_translations.append((english_word, french_word))
+                   matched_translations.append((english_pos, french_pos, english_word, french_word))
                    found_match = True
                    break # Stop searching once a match is found
            if not found_match:
@@ -98,17 +126,25 @@ if __name__ == "__main__":
    english_col, french_col = detect_columns(results)
 
    # print("English Column:")
-   # for word, bbox in english_col:
-   #     print(f"  {word} - Bounding Box: {bbox}")
+   # for word, pos in english_col:
+   #     print(f"  {word} - {pos}")
 
    # print("\nFrench Column:")
-   # for word, bbox in french_col:
-   #     print(f"  {word} - Bounding Box: {bbox}")
+   # for word, pos in french_col:
+   #     print(f"  {word} - {pos}")
 
    matched, missing, mismatched = translate_and_match(english_col, french_col, translation_library)
 
-   print("Matched Translations:", matched)
+   print("Matched Translations")
+   for match in matched:
+      print(f"{match}")
+
    print("Missing Translations:", missing)
+   for miss in missing:
+      print(f"{miss}")
+
    print("Mismatched Translations:", mismatched)
 
-   
+   # for word1, word2 in matched:
+   #     print(f"{english_col.index(word1)[0]} {word1}, {french_col.index(word2)[0]} {word2}")
+
