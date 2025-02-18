@@ -12,9 +12,9 @@ def capture_and_ocr():
    img = Image.frombytes("RGB", screenshot.size, screenshot.tobytes())
 
    # Initialize EasyOCR reader (specify languages)
-   reader = easyocr.Reader(['en', 'fr'], gpu=False)  # English and French
+   reader = easyocr.Reader(['fr', 'en'], gpu=False)  # English and French
 
-   # Perform OCR using EasyOCR
+   # Perform OCR using EasyOCR (tweak EasyOCR settings here)
    results = reader.readtext(np.array(img), min_size=0, ycenter_ths=0.9,height_ths=0.9, width_ths=0.9, decoder='greedy' )
 
    # Print the detected text and bounding boxes
@@ -93,33 +93,6 @@ def load_translation_library(filename):
                translation_dict[english_word] = [french_word] # Initialize as a list   
    return translation_dict
 
-
-# def translate_and_match(english_col, french_col, translation_library):
-#    matched_translations = []
-#    missing_translations = []
-#    mismatched_translations = []
-
-#    for english_word, english_pos in english_col:
-#       english_word_lower = english_word.strip().lower()  # Normalize to lowercase
-#       if english_word_lower in translation_library:
-#          expected_french_word = translation_library[english_word_lower]
-#          # Find if expected_french_word exists in french_col
-#          found_match = False
-#          for french_word, french_pos in french_col:
-#             french_word_lower = french_word.strip().lower()
-#             if expected_french_word == french_word_lower:
-#                matched_translations.append((english_pos, french_pos, english_word, french_word))
-#                found_match = True
-#                break # Stop searching once a match is found
-#          if not found_match:
-#             mismatched_translations.append((english_word, expected_french_word))
-#       else:
-#          missing_translations.append(english_word)
-
-#    return matched_translations, missing_translations, mismatched_translations
-
-
-
 def translate_and_match(english_col, french_col, translation_library):
    matched_translations = []
    missing_translations = []
@@ -151,10 +124,11 @@ def translate_and_match(english_col, french_col, translation_library):
 
 if __name__ == "__main__":
 
-   translation_library_file = "fr_en_dictionary.csv"  # Replace with your file
+   translation_library_file = "fr_en_dictionary.csv"
    translation_library = load_translation_library(translation_library_file)
 
    results = capture_and_ocr()
+
    english_col, french_col = detect_columns(results)
 
    print("English Column:")
@@ -179,7 +153,3 @@ if __name__ == "__main__":
 
    print("")
    print("Mismatched Translations:", mismatched)
-
-   # for word1, word2 in matched:
-   #     print(f"{english_col.index(word1)[0]} {word1}, {french_col.index(word2)[0]} {word2}")
-
