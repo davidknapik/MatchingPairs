@@ -6,6 +6,7 @@ about,sur
 actually,en fait
 after,après
 all day long,toute la journée
+all,tout
 all,toutes
 also,aussi
 always,toujours
@@ -33,11 +34,14 @@ big,gros
 birthday,anniversaire
 book,livre
 books,livres
+both of you,toutes les deux
 bottles,bouteilles
 boxes,boîtes
 boy,garçon
 bread,pain
+breakup,rupture
 but,mais
+cake,gâteau
 can help me,peux m'aider
 canceled,annulé
 candy,bonbons
@@ -49,8 +53,10 @@ cellphone,portable
 chair,chaise
 cheap,pas chère
 children,enfants
+choice,choix
 classroom,salle de classe
 clothes,vêtements
+coat,manteau
 come on, allez
 comes back home,rentre
 comes home,rentre
@@ -87,6 +93,7 @@ first,première
 fish,poisson
 flour,farine
 for,pour
+forget me,oublie-moi
 fridge,frigo
 friends,copains
 from the,du
@@ -97,6 +104,7 @@ garden,jardin
 gas,essence
 go,allez
 good evening,bonsoir
+good,bon
 goodbye,au revoir
 goodnight,bonne nuit
 grandma,mamie
@@ -114,8 +122,12 @@ he is traveling,il voyage
 he left,il est parti
 he liked,il aimait
 hello,bonjour
+her,son
+here is,voilà
 here,ici
 here,voilà
+hi,salut
+hides,cache
 high school,lycée
 him,lui
 his,sa
@@ -130,12 +142,15 @@ how much,combien
 husband,mari
 I am,je suis
 I can,je peux
+I feel,je me sens
 I like her,je l'aime
 I need,jai besoin de
 I remember,je me souviens
 I want,je veux
 I watered,j'ai arrosé
 I would like,j'aimerais
+I'm ashamed,j'ai honte
+I'm cold,j'ai froid
 I'm waiting for,j'attends
 ice cream,glace
 in front of,devant
@@ -145,21 +160,27 @@ inside,lintérieur
 interesting,intéressant
 interesting,intéressantes
 is meeting,rencontre
+is something wrong,ça ne va pas
 it costs,ça coûte
 it doesn't work,il ne marche pas
+it is,il est
 it,il
 it's,c'est
 job,travail
 juice,jus
 keys,clés
 knocks,frappe
+last name,nom de famille
+last,dernière
 late,tard
+like,comme
 listen,écoute
 living room,salon
 look, regardez
 look,regarde
 love,adores
 love,amour
+lovely,joli
 man,homme
 March,mars
 married,mariée
@@ -181,11 +202,14 @@ my,ma
 my,ma
 my,mes
 my,mon
+name,prénom
 neighbor,voisin
 never,jamais
 new,nouveau
 new,nouvelle
 nice to meet you,enchanté
+nice,gentil
+nice,gentille
 nice,jolie
 not,pas
 now,maintenant
@@ -202,12 +226,17 @@ opens,ouvre
 or,ou
 passport,passeport
 people,gens
+people,personnes
+perfect,parfait
+perfect,parfaite
 pet,animal de compagnie
 picture,photo
 player,joueur
 please,"s'il te plaît"
+potatoes,pommes de terre
 practice,répétition
 pretty,joli
+published,publiée
 puts on,met
 read,lis
 ready,prêt
@@ -222,26 +251,34 @@ seats,places
 see you on Friday, à vendredi
 sees, voit
 send,envoie
+several,plusieurs
+she left you,elle t'a quitté
+she loved me,elle m'aimait
 she,elle
+show,émission
 shower,douche
 sick,malade
 since,depuis
 sister,sœur
 sit down,assieds-toi
 small, petit
+smart,intelligente
 sneezes,éternue
 so happy,trop content
 so,alors
 soccer,football
+some,des
 something,quelque chose
 song,chanson
 soon,bientôt
 sorry,désolée
+sorry,pardon
 space,place
 Spanish,espagnol
 Spanish,espagnols
 speak,parles
 starts doing,commence à faire
+still,encore
 stomach,estomac
 store,magasin
 street,rue
@@ -264,15 +301,18 @@ that,ça
 the best,le meilleur
 the groom,le marié
 the last time,la dernière fois
+the most,le plus
 the,l'
 the,le
 there are no more,il n'y a plus de
+there is,il y a
 they are looking at,ils regardent
 they talk,elles parlent
 thirty,trente
 this,cette
 three,trois
 ticket,billet
+tickets,billets
 tickets,places
 time,heure
 time,temps
@@ -284,6 +324,7 @@ to come,venir
 to dance,danser
 to decorate,faire la décoration
 to do,faire
+to eat,manger
 to exercise,faire du sport
 to find,trouver
 to fish,pêcher
@@ -292,17 +333,20 @@ to hear me,m'entendre
 to play sports,faire du sport
 to read,lire
 to run,courir
+to see her,la voir
 to speak,parler
 to spend,passer
 to study,étudier
 to the,au
 to turn off,éteindre
+to walk,marcher
 to wash,laver
 to,à
 to,pour
 today,aujourd'hui
 tomato,tomate
 tomorrow,demain
+tonight,ce soir
 too,aussi
 towards,vers
 trash can,poubelle
@@ -316,13 +360,16 @@ wakes up,se réveille
 water,eau
 waves at her,lui fait signe
 we eat,nous mangeons
+we have,nous avons
 we,nous
 welcome,bienvenue
 well,bien
 what,quel
 what,quoi
 what's that,c'est quoi ça
+when,quand
 where is,où est
+where,où
 white,blanc
 who are you,qui êtes-vous
 who,qui
@@ -335,6 +382,7 @@ work,travaille
 year,année
 yes,oui
 you are writing,tu écris
+you are,tu es
 you can,tu peux
 you come,tu viens
 you hate,tu détestes
