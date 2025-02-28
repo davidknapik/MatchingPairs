@@ -31,14 +31,17 @@ behind, derrière
 best,meilleure
 better,mieux
 big,grand
+big,grande
 big,gros
 birthday,anniversaire
 book,livre
 books,livres
+boring,ennuyeuse
 both of you,toutes les deux
 bottles,bouteilles
 boxes,boîtes
 boy,garçon
+boyfriend,copain
 bread,pain
 breakup,rupture
 but,mais
@@ -85,11 +88,14 @@ eight,huit
 ending,fin
 England,Angleterre
 every day,tous les jours
+everyone,tout le monde
 excuse me,excuse-moi
 expensive,cher
 eyes,yeux
+family,famille
 father,père
 favorite,préféré
+favorite,préférée
 first,d'abord
 first,première
 fish,poisson
@@ -104,8 +110,10 @@ funny,amusante
 funny,drôle
 garden,jardin
 gas,essence
+girlfriend,copine
 go,allez
 good evening,bonsoir
+good morning,bonjour
 good,bon
 goodbye,au revoir
 goodnight,bonne nuit
@@ -137,19 +145,23 @@ his,sa
 home,maison
 honest,honnête
 honeymoon,lune de miel
+hot,chaud
 house,maison
 how are you,comment allez-vous
 how are you,comment ça va
 how are you?,comment ça va ?
 how much,combien
 how old are you,quel âge as-tu
+how,comment
 husband,mari
 I am,je suis
 I can,je peux
+I feel like,j'ai l'impression
 I feel,je me sens
 I lied,j'ai menti
 I like her,je l'aime
 I need,j'ai besoin de
+I remember,je me souviens
 I remember,je me souviens
 I want,je veux
 I watered,j'ai arrosé
@@ -158,6 +170,7 @@ I'm ashamed,j'ai honte
 I'm cold,j'ai froid
 I'm waiting for,j'attends
 ice cream,glace
+idea,idée
 in front of,devant
 in order to,pour
 in,dans
@@ -171,13 +184,16 @@ it doesn't work,il ne marche pas
 it is,il est
 it,il
 it's,c'est
+job,métier
 job,travail
 juice,jus
 keys,clés
+kitchen,cuisine
 knocks,frappe
 last name,nom de famille
 last,dernière
 late,tard
+life,vie
 light,lumière
 like,comme
 listen,écoute
@@ -205,7 +221,6 @@ museum,musée
 my house,chez moi
 my name is,je m'appelle
 my,ma
-my,ma
 my,mes
 my,mon
 name,prénom
@@ -218,11 +233,15 @@ nice to meet you,enchanté
 nice,gentil
 nice,gentille
 nice,jolie
+not now,pas maintenant
 not,pas
 now,maintenant
 office,bureau
 often,souvent
+OK,d'accord
 okay,d'accord
+old,vieille
+old,vieilles
 older than,plus vieux que
 on a plane,dans un avion
 on a trip,en voyage
@@ -250,10 +269,12 @@ ready,prêt
 ready,prête
 really,tellement
 really,vraiment
+recipe,recette
 rice,riz
 river,rivière
+roommate,colocataire
 sad,triste
-school,ecole
+school,école
 seats,places
 see you on Friday, à vendredi
 sees, voit
@@ -266,6 +287,7 @@ show,émission
 shower,douche
 sick,malade
 since,depuis
+singer,chanteur
 sister,sœur
 sit down,assieds-toi
 small, petit
@@ -275,6 +297,7 @@ so happy,trop content
 so,alors
 soccer,football
 some,des
+somebody,quelqu'un
 something,quelque chose
 song,chanson
 soon,bientôt
@@ -314,9 +337,11 @@ the,l'
 the,le
 there are no more,il n'y a plus de
 there is,il y a
+there was,il y avait
 they are looking at,ils regardent
 they talk,elles parlent
 thirty,trente
+this is,voici
 this,cette
 three,trois
 ticket,billet
@@ -328,6 +353,7 @@ tired,fatigué
 tired,fatiguée
 to believe,croire
 to buy,acheter
+to clean,nettoyer
 to come,venir
 to dance,danser
 to decorate,faire la décoration
@@ -338,7 +364,9 @@ to find,trouver
 to fish,pêcher
 to go,aller
 to hear me,m'entendre
+to know,savoir
 to play sports,faire du sport
+to propose,demander en mariage
 to read,lire
 to run,courir
 to see her,la voir
@@ -362,6 +390,7 @@ trip,voyage
 two,deux
 university,université
 us,nous
+usually,d'habitude
 vegetarian,végétarien
 very,très
 video game,jeu vidéo
@@ -396,6 +425,7 @@ you are writing,tu écris
 you are,tu es
 you can,tu peux
 you come,tu viens
+you go,tu vas
 you hate,tu détestes
 you have,tu as
 you look,tu as l'air
@@ -404,4 +434,5 @@ you need,tu as besoin de
 you want,tu veux
 you,toi
 you're right,tu as raison
+you're right,vous avez raison
 your,tes
