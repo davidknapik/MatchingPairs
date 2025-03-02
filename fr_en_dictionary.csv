@@ -58,6 +58,7 @@ chair,chaise
 cheap,pas chère
 children,enfants
 choice,choix
+class,cours
 classroom,salle de classe
 clothes,vêtements
 coat,manteau
@@ -108,6 +109,7 @@ from the,du
 fun,amusant
 funny,amusante
 funny,drôle
+game, match
 garden,jardin
 gas,essence
 girlfriend,copine
@@ -120,6 +122,7 @@ goodnight,bonne nuit
 grandma,mamie
 grandmother,grand-mère
 grandpa,papi
+gray,gris
 great,génial
 green,vert
 green,verte
@@ -145,6 +148,7 @@ his,sa
 home,maison
 honest,honnête
 honeymoon,lune de miel
+hospital,hôpital
 hot,chaud
 house,maison
 how are you,comment allez-vous
@@ -156,6 +160,7 @@ how,comment
 husband,mari
 I am,je suis
 I can,je peux
+I can't find,je ne trouve pas
 I feel like,j'ai l'impression
 I feel,je me sens
 I lied,j'ai menti
@@ -167,13 +172,17 @@ I want,je veux
 I watered,j'ai arrosé
 I would like,j'aimerais
 I'm ashamed,j'ai honte
+I'm bored,je m'ennuie
 I'm cold,j'ai froid
+I'm OK,ça va bien
 I'm waiting for,j'attends
 ice cream,glace
 idea,idée
 in front of,devant
+in love,amoureux
 in order to,pour
 in,dans
+in,en
 inside,lintérieur
 interesting,intéressant
 interesting,intéressantes
@@ -197,6 +206,7 @@ life,vie
 light,lumière
 like,comme
 listen,écoute
+live,habite
 living room,salon
 look, regardez
 look,regarde
@@ -223,10 +233,12 @@ my name is,je m'appelle
 my,ma
 my,mes
 my,mon
+name,nom
 name,prénom
 neighbor,voisin
 never,jamais
 new,nouveau
+new,nouvel
 new,nouvelle
 next to,à côté de
 nice to meet you,enchanté
@@ -236,6 +248,7 @@ nice,jolie
 not now,pas maintenant
 not,pas
 now,maintenant
+of course not,mais non
 office,bureau
 often,souvent
 OK,d'accord
@@ -250,6 +263,7 @@ on, sur
 one,une
 opens,ouvre
 or,ou
+outside,dehors
 passport,passeport
 people,gens
 people,personnes
@@ -283,6 +297,8 @@ several,plusieurs
 she left you,elle t'a quitté
 she loved me,elle m'aimait
 she,elle
+shhh,chut
+shoes,chaussures
 show,émission
 shower,douche
 sick,malade
@@ -301,6 +317,7 @@ somebody,quelqu'un
 something,quelque chose
 song,chanson
 soon,bientôt
+sorry,désolé
 sorry,désolée
 sorry,pardon
 space,place
@@ -320,7 +337,9 @@ suitcase,valise
 supermarket,supermarché
 swimming pool, piscine
 swimsuit, maillot de bain
+take,prends
 takes,prend
+tall,grand
 tall,grande
 taste,goût
 tea,thé
@@ -333,12 +352,15 @@ the best,le meilleur
 the groom,le marié
 the last time,la dernière fois
 the most,le plus
+the weather's nice,il fait beau
 the,l'
 the,le
 there are no more,il n'y a plus de
 there is,il y a
 there was,il y avait
+there,là
 they are looking at,ils regardent
+they look,elles regardent
 they talk,elles parlent
 thirty,trente
 this is,voici
@@ -347,6 +369,7 @@ three,trois
 ticket,billet
 tickets,billets
 tickets,places
+time,fois
 time,heure
 time,temps
 tired,fatigué
@@ -365,6 +388,7 @@ to fish,pêcher
 to go,aller
 to hear me,m'entendre
 to know,savoir
+to marry,se marier avec
 to play sports,faire du sport
 to propose,demander en mariage
 to read,lire
@@ -373,6 +397,7 @@ to see her,la voir
 to speak,parler
 to spend,passer
 to study,étudier
+to swim,nager
 to the,au
 to turn off,éteindre
 to walk,marcher
@@ -395,6 +420,7 @@ vegetarian,végétarien
 very,très
 video game,jeu vidéo
 wakes up,se réveille
+walks,marche
 water,eau
 waves at her,lui fait signe
 we eat,nous mangeons
