@@ -17,9 +17,11 @@ anyway,quand même
 are preparing,prépares
 at home,à la maison
 at the,au
+auto repair shop,garage
 baby,bébé
 bad, mauvaise
 bag,sac
+bakery,boulangerie
 balls,balles
 band,groupe
 bathroom,toilettes
@@ -34,6 +36,7 @@ big,grand
 big,grande
 big,gros
 birthday,anniversaire
+blood,sang
 book,livre
 books,livres
 boring,ennuyeuse
@@ -56,15 +59,18 @@ cats,chats
 cellphone,portable
 chair,chaise
 cheap,pas chère
+child,enfant
 children,enfants
 choice,choix
 class,cours
 classroom,salle de classe
+clean,nettoient
 clothes,vêtements
 coat,manteau
 come on, allez
 comes back home,rentre
 comes home,rentre
+cooking,cuisiner
 cousin,cousin
 cup,tasse
 cups,tasses
@@ -82,17 +88,21 @@ dishes,plats
 doctor,médecin
 dog,chien
 dogs,chiens
+don't remember,ne me souviens pas
 dough,pâte
 drinks,boissons
 driver,chauffeur
+ear,oreille
 eight,huit
 ending,fin
 England,Angleterre
 every day,tous les jours
 everyone,tout le monde
 excuse me,excuse-moi
+excuse me,excusez-moi
 expensive,cher
 eyes,yeux
+face,visage
 family,famille
 father,père
 favorite,préféré
@@ -100,8 +110,10 @@ favorite,préférée
 first,d'abord
 first,première
 fish,poisson
+five years ago,ily a cinq ans
 flour,farine
 for,pour
+forehead,front
 forget me,oublie-moi
 fridge,frigo
 friends,copains
@@ -124,10 +136,12 @@ grandmother,grand-mère
 grandpa,papi
 gray,gris
 great,génial
+great,super
 green,vert
 green,verte
 hands,mains
 handsome,beau
+have a nice day,bonne journée
 he eats it,il le mange
 he is eating,il mange
 he is fine,il va bien
@@ -144,6 +158,7 @@ hi,salut
 hides,cache
 high school,lycée
 him,lui
+his name,son prénom
 his,sa
 home,maison
 honest,honnête
@@ -163,6 +178,8 @@ I can,je peux
 I can't find,je ne trouve pas
 I feel like,j'ai l'impression
 I feel,je me sens
+I know how to do,je sais faire
+I know,je connais
 I lied,j'ai menti
 I like her,je l'aime
 I need,j'ai besoin de
@@ -203,6 +220,7 @@ last name,nom de famille
 last,dernière
 late,tard
 life,vie
+lifeguard,maître-nageuse
 light,lumière
 like,comme
 listen,écoute
@@ -213,6 +231,7 @@ look,regarde
 love,adores
 love,amour
 lovely,joli
+lunch,déjeuner
 man,homme
 March,mars
 married,mariée
@@ -259,11 +278,14 @@ older than,plus vieux que
 on a plane,dans un avion
 on a trip,en voyage
 on TV,à la télé
+on weekends,le week-end
 on, sur
 one,une
 opens,ouvre
 or,ou
 outside,dehors
+pair of pants,pantalon
+park,parc
 passport,passeport
 people,gens
 people,personnes
@@ -276,6 +298,7 @@ please,"s'il te plaît"
 potatoes,pommes de terre
 practice,répétition
 pretty,joli
+professors,professeurs
 published,publiée
 puts on,met
 read,lis
@@ -286,6 +309,8 @@ really,vraiment
 recipe,recette
 rice,riz
 river,rivière
+road,route
+roller coaster,montagnes russes
 roommate,colocataire
 sad,triste
 school,école
@@ -296,8 +321,10 @@ send,envoie
 several,plusieurs
 she left you,elle t'a quitté
 she loved me,elle m'aimait
+she sees,elle voit
 she,elle
 shhh,chut
+shirt,chemise
 shoes,chaussures
 show,émission
 shower,douche
@@ -313,6 +340,7 @@ so happy,trop content
 so,alors
 soccer,football
 some,des
+some,un peu
 somebody,quelqu'un
 something,quelque chose
 song,chanson
@@ -325,19 +353,24 @@ Spanish,espagnol
 Spanish,espagnols
 speak,parles
 starts doing,commence à faire
+starts doing,commence à faire
 still,encore
 stomach,estomac
+stop,arrête
 store,magasin
 street,rue
+streets,rues
 student,étudiant
 students,étudiantes
 study,étudies
+subway,métro
 sugar,sucre
 suitcase,valise
 supermarket,supermarché
 swimming pool, piscine
 swimsuit, maillot de bain
 take,prends
+take,prenez
 takes,prend
 tall,grand
 tall,grande
@@ -347,11 +380,14 @@ teachers,professeurs
 thank you,merci
 thanks,merci
 that big,aussi grande
+that smells,ça sent
 that,ça
 the best,le meilleur
+the dishes,la vaisselle
 the groom,le marié
 the last time,la dernière fois
 the most,le plus
+the next one,la prochaine
 the weather's nice,il fait beau
 the,l'
 the,le
@@ -360,6 +396,8 @@ there is,il y a
 there was,il y avait
 there,là
 they are looking at,ils regardent
+they live,elles habitent
+they look for,elles cherchent
 they look,elles regardent
 they talk,elles parlent
 thirty,trente
@@ -377,6 +415,7 @@ tired,fatiguée
 to believe,croire
 to buy,acheter
 to clean,nettoyer
+to come back,revenir
 to come,venir
 to dance,danser
 to decorate,faire la décoration
@@ -396,6 +435,7 @@ to run,courir
 to see her,la voir
 to speak,parler
 to spend,passer
+to stay,rester
 to study,étudier
 to swim,nager
 to the,au
@@ -409,6 +449,7 @@ tomato,tomate
 tomorrow,demain
 tonight,ce soir
 too,aussi
+too,trop
 towards,vers
 trash can,poubelle
 trip,voyage
@@ -417,6 +458,7 @@ university,université
 us,nous
 usually,d'habitude
 vegetarian,végétarien
+very well,très bien
 very,très
 video game,jeu vidéo
 wakes up,se réveille
@@ -427,16 +469,19 @@ we eat,nous mangeons
 we have,nous avons
 we,nous
 weeks,semaines
+weird,bizarre
 welcome,bienvenue
 well,bien
 well,eh bien
 what,quel
 what,quoi
 what's that,c'est quoi ça
+what's wrong,qu'est-ce qu'il y a
 when,quand
 where is,où est
 where,où
 white,blanc
+white,blancs
 who are you,qui êtes-vous
 who,qui
 why,pourquoi
@@ -459,6 +504,9 @@ you must go,il faut aller
 you need,tu as besoin de
 you want,tu veux
 you,toi
+you,vous
 you're right,tu as raison
 you're right,vous avez raison
+young,jeune
+young,jeunes
 your,tes
