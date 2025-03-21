@@ -1,3 +1,4 @@
+7 p.m.,dix-neuf heures
 8 p.m.,vingt heures
 a bit,un peu
 a lot of,beaucoup de
@@ -11,12 +12,17 @@ all,tout
 all,toutes
 also,aussi
 always,toujours
+American,américain
 and,et
 another,une autre
 anyway,quand même
 are preparing,prépares
+are,sont
 at home,à la maison
+at school,à l'école
 at the,au
+at Vikram's,chez Vikram
+at,à
 auto repair shop,garage
 baby,bébé
 bad, mauvaise
@@ -39,6 +45,7 @@ birthday,anniversaire
 blood,sang
 book,livre
 books,livres
+boots,bottes
 boring,ennuyeuse
 both of you,toutes les deux
 bottles,bouteilles
@@ -58,6 +65,7 @@ catch,attrape
 cats,chats
 cellphone,portable
 chair,chaise
+chairs,chaises
 cheap,pas chère
 child,enfant
 children,enfants
@@ -66,14 +74,18 @@ class,cours
 classroom,salle de classe
 clean,nettoient
 clothes,vêtements
+coach,entraîneur
 coat,manteau
 come on, allez
 comes back home,rentre
 comes home,rentre
+company,entreprise
 cooking,cuisiner
 cousin,cousin
 cup,tasse
 cups,tasses
+cushion,coussin
+customer,cliente
 cute,mignon
 dad,papa
 darling,chéri
@@ -81,41 +93,56 @@ date,rendez-vous
 daughter,fille
 day off,jour de repos
 day,journée
+dead,morte
 delicious,délicieux
 diary,journal
 difficult,difficile
 dishes,plats
 doctor,médecin
+doesn't need,n'as pas besoin
 dog,chien
 dogs,chiens
 don't remember,ne me souviens pas
+door,porte
 dough,pâte
 drinks,boissons
 driver,chauffeur
 ear,oreille
+early,tôt
+eggs,œufs
 eight,huit
 ending,fin
+engine,moteur
 England,Angleterre
+enjoy your meal,bon appétit
 every day,tous les jours
 everyone,tout le monde
 excuse me,excuse-moi
 excuse me,excusez-moi
+excuse me,pardon
 expensive,cher
+expensive,chère
 eyes,yeux
 face,visage
 family,famille
+far from,loin de
 father,père
 favorite,préféré
 favorite,préférée
+fifteen,quinze
 first,d'abord
 first,première
 fish,poisson
 five years ago,ily a cinq ans
+five,cinq
 flour,farine
+flowers,fleurs
+for how long,combien de temps
 for,pour
 forehead,front
 forget me,oublie-moi
 fridge,frigo
+friend,ami
 friends,copains
 from the,du
 fun,amusant
@@ -124,7 +151,10 @@ funny,drôle
 game, match
 garden,jardin
 gas,essence
+get out,sors
+gift,cadeau
 girlfriend,copine
+girlfriend,petite amie
 go,allez
 good evening,bonsoir
 good morning,bonjour
@@ -141,14 +171,20 @@ green,vert
 green,verte
 hands,mains
 handsome,beau
+happy,content
+have a good trip,bon voyage
 have a nice day,bonne journée
+have to do,dois faire
+he comes back,il revient
 he eats it,il le mange
+he gets out,il sort
 he is eating,il mange
 he is fine,il va bien
 he is reading,il lit
 he is traveling,il voyage
 he left,il est parti
 he liked,il aimait
+health,santé
 hello,bonjour
 her,son
 here is,voilà
@@ -174,16 +210,19 @@ how old are you,quel âge as-tu
 how,comment
 husband,mari
 I am,je suis
+I borrowed,j'ai emprunté
 I can,je peux
 I can't find,je ne trouve pas
+I don't want to,je ne veux pas
 I feel like,j'ai l'impression
 I feel,je me sens
+I have to,je dois
+I have,j'ai
 I know how to do,je sais faire
 I know,je connais
 I lied,j'ai menti
 I like her,je l'aime
 I need,j'ai besoin de
-I remember,je me souviens
 I remember,je me souviens
 I want,je veux
 I watered,j'ai arrosé
@@ -191,7 +230,9 @@ I would like,j'aimerais
 I'm ashamed,j'ai honte
 I'm bored,je m'ennuie
 I'm cold,j'ai froid
+I'm hungry,j'ai faim
 I'm OK,ça va bien
+I'm sick of,j'en ai marre de
 I'm waiting for,j'attends
 ice cream,glace
 idea,idée
@@ -204,21 +245,29 @@ inside,lintérieur
 interesting,intéressant
 interesting,intéressantes
 is meeting,rencontre
+is right,a raison
 is something wrong,ça ne va pas
 it costs,ça coûte
 it doesn't work,il ne marche pas
 it is,il est
+it takes,ça prend
 it,il
 it's,c'est
+jacket,veste
+January,janvier
 job,métier
 job,travail
+journalist,journaliste
 juice,jus
 keys,clés
 kitchen,cuisine
 knocks,frappe
+know,sais
 last name,nom de famille
 last,dernière
+late,en retard
 late,tard
+library,bibliothèque
 life,vie
 lifeguard,maître-nageuse
 light,lumière
@@ -226,8 +275,10 @@ like,comme
 listen,écoute
 live,habite
 living room,salon
+look at,regarde
 look, regardez
 look,regarde
+looks at,regarde
 love,adores
 love,amour
 lovely,joli
@@ -243,10 +294,14 @@ Mexican,mexicain
 Mexican,mexicains
 milk,lait
 mix,mélangent
+mom,maman
 money,argent
 more,plus
+mother,mère
+movie,film
 museum,musee
 museum,musée
+must know,dois connaître
 my house,chez moi
 my name is,je m'appelle
 my,ma
@@ -261,9 +316,13 @@ new,nouvel
 new,nouvelle
 next to,à côté de
 nice to meet you,enchanté
+nice to meet you,enchantée
 nice,gentil
 nice,gentille
 nice,jolie
+nice,sympa
+noise,bruit
+noon,midi
 not now,pas maintenant
 not,pas
 now,maintenant
@@ -281,18 +340,24 @@ on TV,à la télé
 on weekends,le week-end
 on, sur
 one,une
+open,ouvre
 opens,ouvre
 or,ou
+our,notre
 outside,dehors
 pair of pants,pantalon
 park,parc
+party,soirée
 passport,passeport
 people,gens
 people,personnes
+pepper,poivre
 perfect,parfait
 perfect,parfaite
 pet,animal de compagnie
+phew,ouf
 picture,photo
+plane,avion
 player,joueur
 please,"s'il te plaît"
 potatoes,pommes de terre
@@ -301,12 +366,17 @@ pretty,joli
 professors,professeurs
 published,publiée
 puts on,met
+puts,met
+quickly,vite
+racket,raquette
 read,lis
 ready,prêt
 ready,prête
 really,tellement
 really,vraiment
 recipe,recette
+red,rouge
+red,rouges
 rice,riz
 river,rivière
 road,route
@@ -366,6 +436,7 @@ study,étudies
 subway,métro
 sugar,sucre
 suitcase,valise
+sun,soleil
 supermarket,supermarché
 swimming pool, piscine
 swimsuit, maillot de bain
@@ -392,17 +463,21 @@ the weather's nice,il fait beau
 the,l'
 the,le
 there are no more,il n'y a plus de
+there are,il y a
 there is,il y a
 there was,il y avait
 there,là
 they are looking at,ils regardent
+they hear,ils entendent
 they live,elles habitent
 they look for,elles cherchent
 they look,elles regardent
 they talk,elles parlent
+things,choses
 thirty,trente
 this is,voici
 this,cette
+three times a day,trois fois par jour
 three,trois
 ticket,billet
 tickets,billets
@@ -417,6 +492,7 @@ to buy,acheter
 to clean,nettoyer
 to come back,revenir
 to come,venir
+to cook,cuisiner
 to dance,danser
 to decorate,faire la décoration
 to do,faire
@@ -429,7 +505,9 @@ to hear me,m'entendre
 to know,savoir
 to marry,se marier avec
 to play sports,faire du sport
+to play,jouer
 to propose,demander en mariage
+to rain,pleuvoir
 to read,lire
 to run,courir
 to see her,la voir
@@ -438,6 +516,7 @@ to spend,passer
 to stay,rester
 to study,étudier
 to swim,nager
+to take,prendre
 to the,au
 to turn off,éteindre
 to walk,marcher
@@ -445,9 +524,11 @@ to wash,laver
 to,à
 to,pour
 today,aujourd'hui
+together,ensemble
 tomato,tomate
 tomorrow,demain
 tonight,ce soir
+too late,trop tard
 too,aussi
 too,trop
 towards,vers
@@ -461,12 +542,15 @@ vegetarian,végétarien
 very well,très bien
 very,très
 video game,jeu vidéo
+video games,jeux vidéo
+wait,attendez
 wakes up,se réveille
 walks,marche
 water,eau
 waves at her,lui fait signe
 we eat,nous mangeons
 we have,nous avons
+we must,il faut
 we,nous
 weeks,semaines
 weird,bizarre
@@ -474,6 +558,7 @@ welcome,bienvenue
 well,bien
 well,eh bien
 what,quel
+what,quelle
 what,quoi
 what's that,c'est quoi ça
 what's wrong,qu'est-ce qu'il y a
@@ -486,27 +571,37 @@ who are you,qui êtes-vous
 who,qui
 why,pourquoi
 wife,femme
+wine,vin
 with,avec
+without,sans
 woman,femme
 work,travail
 work,travaille
+worried,inquiet
 year,année
 yes,oui
 you are writing,tu écris
 you are,tu es
 you can,tu peux
 you come,tu viens
+you don't have to,tu ne dois pas
 you go,tu vas
 you hate,tu détestes
 you have,tu as
+you like,tu aimes bien
 you look,tu as l'air
 you must go,il faut aller
 you need,tu as besoin de
+you take,tu prends
 you want,tu veux
+you want,vous voulez
+you work,tu travailles
 you,toi
 you,vous
+you're OK,ça va
 you're right,tu as raison
 you're right,vous avez raison
 young,jeune
 young,jeunes
 your,tes
+your,vos
