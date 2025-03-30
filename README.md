@@ -15,3 +15,5 @@ There are also cases where the OCR does not include the puncuation. "C'est" may 
 I hope at some point I will either figure out better settings to pass through to EasyOCR or to train the base model with 
 images taken from the game. Though EasyOCR doesn't seem to be under any active development.
 
+
+> [!Note] This implmentation is hard coded to my screen size (1920x1080) and uses a Chrome browser set to Full Screen (F11)
