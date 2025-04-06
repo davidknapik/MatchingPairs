@@ -27,9 +27,11 @@ at school,à l'école
 at the,au
 at Vikram's,chez Vikram
 at,à
+aunt,tante
 auto repair shop,garage
 baby,bébé
 bad, mauvaise
+badly,mal
 bag,sac
 bakery,boulangerie
 balls,balles
@@ -75,6 +77,7 @@ cellphone,portable
 chair,chaise
 chairs,chaises
 cheap,pas chère
+cheese,fromage
 child,enfant
 children,enfants
 choice,choix
@@ -89,6 +92,7 @@ come on, allez
 comes back home,rentre
 comes home,rentre
 company,entreprise
+cooking class,cours de cuisine
 cooking,cuisiner
 cousin,cousin
 cup,tasse
@@ -121,6 +125,7 @@ driver,chauffeur
 drives,conduit
 ear,oreille
 early,tôt
+easy,faciles
 eggs,œufs
 eight,huit
 emergency,urgence
@@ -189,6 +194,7 @@ green,verte
 hands,mains
 handsome,beau
 happy,content
+happy,heureux
 have a good trip,bon voyage
 have a nice day,bonne journée
 have pain,as mal
@@ -217,6 +223,7 @@ him,lui
 his name,son prénom
 his,sa
 home,maison
+homework,devoir
 honest,honnête
 honeymoon,lune de miel
 hospital,hôpital
@@ -234,6 +241,7 @@ I am,je suis
 I borrowed,j'ai emprunté
 I can,je peux
 I can't find,je ne trouve pas
+I don't eat,je ne mange pas
 I don't want to,je ne veux pas
 I feel like,j'ai l'impression
 I feel,je me sens
@@ -245,6 +253,7 @@ I know,je connais
 I lied,j'ai menti
 I like her,je l'aime
 I liked her,je l'aimais bien
+I love,j'aime
 I need,j'ai besoin de
 I remember,je me souviens
 I want,je veux
@@ -267,6 +276,7 @@ in,dans
 in,en
 inside,lintérieur
 interesting,intéressant
+interesting,intéressante
 interesting,intéressantes
 is meeting,rencontre
 is right,a raison
@@ -276,6 +286,7 @@ it doesn't work,il ne marche pas
 it is,il est
 it takes,ça prend
 it,il
+it's hot,il fait chaud
 it's OK,ça va
 it's,c'est
 jacket,veste
@@ -293,6 +304,7 @@ last name,nom de famille
 last,dernière
 late,en retard
 late,tard
+leaves,part
 left,à gauche
 library,bibliothèque
 life,vie
@@ -368,6 +380,7 @@ on TV,à la télé
 on weekends,le week-end
 on, sur
 one hundred,cent
+one of the two,un des deux
 one,une
 open,ouvre
 opens,ouvre
@@ -385,11 +398,14 @@ perfect,parfait
 perfect,parfaite
 pet,animal de compagnie
 phew,ouf
+physics,physique
 picks up,prend
 picture,photo
 piece of advice,conseil
+pink,rose
 plane,avion
 player,joueur
+pleasant,agréable
 please,"s'il te plaît"
 potatoes,pommes de terre
 practice,répétition
@@ -417,12 +433,14 @@ room,pièce
 roommate,colocataire
 sad,triste
 salt,sel
+same,mêmes
 school,école
 seats,places
 see you on Friday, à vendredi
 sees, voit
 send,envoie
 several,plusieurs
+she is,elle est
 she left you,elle t'a quitté
 she loved me,elle m'aimait
 she sees,elle voit
@@ -457,6 +475,7 @@ space,place
 Spanish,espagnol
 Spanish,espagnols
 speak,parles
+square,place
 starts doing,commence à faire
 starts doing,commence à faire
 still,encore
@@ -529,6 +548,7 @@ tired,fatiguée
 to believe,croire
 to buy,acheter
 to buy,acheter
+to choose,choisir
 to clean,nettoyer
 to come back,revenir
 to come,venir
@@ -545,6 +565,7 @@ to go,aller
 to hear me,m'entendre
 to her place,chez elle
 to know,savoir
+to learn,apprendre
 to look at,regarder
 to marry,se marier avec
 to play sports,faire du sport
@@ -597,6 +618,7 @@ wakes up,se réveille
 walks,marche
 water,eau
 waves at her,lui fait signe
+we are going,nous allons
 we are,nous sommes
 we eat,nous mangeons
 we have,nous avons
@@ -659,8 +681,6 @@ young,jeune
 young,jeunes
 your,ta
 your,tes
-your,vos
-interesting,intéressante
-she is,elle est
-we are going,nous allons
 your,ton
+your,vos
+your,votre
