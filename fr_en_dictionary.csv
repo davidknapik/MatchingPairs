@@ -42,9 +42,11 @@ bathroom,toilettes
 beautiful,beaux
 beautiful,belle
 because, parce que
+bed,lit
 beer,bière
 before leaving,avant de partir
 behind, derrière
+bench,banc
 best,meilleure
 better,mieux
 big,grand
@@ -88,6 +90,7 @@ clean,nettoient
 clothes,vêtements
 coach,entraîneur
 coat,manteau
+coffee,café
 come on, allez
 comes back home,rentre
 comes home,rentre
@@ -101,6 +104,7 @@ cushion,coussin
 customer,cliente
 cute,mignon
 dad,papa
+dangerous,dangereux
 darling,chéri
 date,rendez-vous
 daughter,fille
@@ -129,12 +133,14 @@ easy,faciles
 eggs,œufs
 eight,huit
 emergency,urgence
+end,fin
 ending,fin
 engine,moteur
 England,Angleterre
 enjoy your meal,bon appétit
 every day,tous les jours
 everyone,tout le monde
+everything,tout
 excuse me,excuse-moi
 excuse me,excusez-moi
 excuse me,pardon
@@ -172,11 +178,14 @@ game, match
 garden,jardin
 gas,essence
 get out,sors
+ghost,fantôme
 gift,cadeau
 girlfriend,copine
 girlfriend,petite amie
 gives,donne
+glasses,lunettes
 go,allez
+goes,va
 good evening,bonsoir
 good morning,bonjour
 good,bon
@@ -195,6 +204,7 @@ hands,mains
 handsome,beau
 happy,content
 happy,heureux
+has to do,doit faire
 have a good trip,bon voyage
 have a nice day,bonne journée
 have pain,as mal
@@ -205,6 +215,7 @@ he gets out,il sort
 he is eating,il mange
 he is fine,il va bien
 he is reading,il lit
+he is talking,il parle
 he is traveling,il voyage
 he left,il est parti
 he liked,il aimait
@@ -243,6 +254,7 @@ I can,je peux
 I can't find,je ne trouve pas
 I don't eat,je ne mange pas
 I don't want to,je ne veux pas
+I exercise,je fais du sport
 I feel like,j'ai l'impression
 I feel,je me sens
 I have to,je dois
@@ -284,8 +296,10 @@ is something wrong,ça ne va pas
 it costs,ça coûte
 it doesn't work,il ne marche pas
 it is,il est
+it isn't,ce n'est pas
 it takes,ça prend
 it,il
+it's here,c'est ici
 it's hot,il fait chaud
 it's OK,ça va
 it's,c'est
@@ -318,6 +332,7 @@ look at,regarde
 look, regardez
 look,regarde
 looks at,regarde
+lost,perdu
 love,adores
 love,amour
 lovely,joli
@@ -354,6 +369,7 @@ new,nouveau
 new,nouvel
 new,nouvelle
 next to,à côté de
+next,prochain
 nice to meet you,enchanté
 nice to meet you,enchantée
 nice,gentil
@@ -403,6 +419,7 @@ picks up,prend
 picture,photo
 piece of advice,conseil
 pink,rose
+plane ticket,billet d'avion
 plane,avion
 player,joueur
 pleasant,agréable
@@ -431,10 +448,12 @@ road,route
 roller coaster,montagnes russes
 room,pièce
 roommate,colocataire
+Russian,russe
 sad,triste
 salt,sel
 same,mêmes
 school,école
+seat,place
 seats,places
 see you on Friday, à vendredi
 sees, voit
@@ -461,11 +480,14 @@ smart,intelligente
 sneezes,éternue
 so happy,trop content
 so,alors
+so,trop
 soccer,football
+social media,réseaux sociaux
 some,des
 some,un peu
 somebody,quelqu'un
 something,quelque chose
+son,fils
 song,chanson
 soon,bientôt
 sorry,désolé
@@ -485,6 +507,7 @@ store,magasin
 street,rue
 streets,rues
 student,étudiant
+student,étudiante
 students,étudiantes
 study,étudies
 subway,métro
@@ -496,11 +519,13 @@ swimming pool, piscine
 swimsuit, maillot de bain
 take,prends
 take,prenez
+take,prennent
 takes,prend
 tall,grand
 tall,grande
 taste,goût
 tea,thé
+teacher,professeur
 teachers,professeurs
 thank you,merci
 thanks,merci
@@ -532,7 +557,9 @@ they look,elles regardent
 they talk,elles parlent
 they work,elles travaillent
 things,choses
+thirteen,treize
 thirty,trente
+this is,c'est
 this is,voici
 this,cette
 three times a day,trois fois par jour
@@ -556,6 +583,7 @@ to cook,cuisiner
 to dance,danser
 to decorate,faire la décoration
 to do,faire
+to drive,conduire
 to eat,manger
 to exercise,faire du sport
 to find,trouver
@@ -568,6 +596,7 @@ to know,savoir
 to learn,apprendre
 to look at,regarder
 to marry,se marier avec
+to move,déménager
 to play sports,faire du sport
 to play,jouer
 to propose,demander en mariage
@@ -601,6 +630,7 @@ towel,serviette
 train station,gare
 trash can,poubelle
 trip,voyage
+trunk,coffre
 twenty,vingt
 two,deux
 unfortunately,malheureusement
@@ -629,6 +659,7 @@ weird,bizarre
 welcome,bienvenue
 well,bien
 well,eh bien
+what is it that,qu'est-ce que
 what,quel
 what,quelle
 what,quoi
@@ -659,6 +690,7 @@ you are,tu es
 you can,tu peux
 you come,tu viens
 you don't have to,tu ne dois pas
+you draw,tu dessines
 you go,tu vas
 you hate,tu détestes
 you have,tu as
@@ -668,7 +700,9 @@ you must go,il faut aller
 you must,tu dois
 you need,tu as besoin de
 you sit down,tu tassieds
+you started,tu as démarré
 you take,tu prends
+you too,toi aussi
 you want,tu veux
 you want,vous voulez
 you work,tu travailles
