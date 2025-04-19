@@ -91,6 +91,7 @@ clothes,vêtements
 coach,entraîneur
 coat,manteau
 coffee,café
+color,couleur
 come on, allez
 comes back home,rentre
 comes home,rentre
@@ -155,6 +156,7 @@ father,père
 favorite,préféré
 favorite,préférée
 fifteen,quinze
+finishes,finit
 first,d'abord
 first,première
 fish,poisson
@@ -167,6 +169,7 @@ for how long,combien de temps
 for,pour
 forehead,front
 forget me,oublie-moi
+four hundred,quatre cents
 fridge,frigo
 friend,ami
 friends,copains
@@ -253,6 +256,7 @@ I borrowed,j'ai emprunté
 I can,je peux
 I can't find,je ne trouve pas
 I don't eat,je ne mange pas
+I don't have,je n'ai pas
 I don't want to,je ne veux pas
 I exercise,je fais du sport
 I feel like,j'ai l'impression
@@ -274,6 +278,7 @@ I would like,j'aimerais
 I'm ashamed,j'ai honte
 I'm bored,je m'ennuie
 I'm cold,j'ai froid
+I'm hot,j'ai chaud
 I'm hungry,j'ai faim
 I'm not,je ne suis pas
 I'm OK,ça va bien
@@ -311,9 +316,11 @@ joke,blague
 journalist,journaliste
 juice,jus
 keys,clés
+kind,genre
 kitchen,cuisine
 knocks,frappe
 know,sais
+knows,connaît
 last name,nom de famille
 last,dernière
 late,en retard
@@ -343,7 +350,9 @@ married,mariée
 math,maths
 me,moi
 meat,viande
+mechanic,mécanicienne
 meeting,réunion
+memories,souvenirs
 Mexican,mexicain
 Mexican,mexicains
 milk,lait
@@ -486,6 +495,7 @@ social media,réseaux sociaux
 some,des
 some,un peu
 somebody,quelqu'un
+someone,quelqu'un
 something,quelque chose
 son,fils
 song,chanson
@@ -532,6 +542,7 @@ thanks,merci
 that big,aussi grande
 that smells,ça sent
 that,ça
+that,que
 that's why,c'est pour ça
 the best,le meilleur
 the dishes,la vaisselle
@@ -588,6 +599,7 @@ to eat,manger
 to exercise,faire du sport
 to find,trouver
 to fish,pêcher
+to get out,sortir
 to go,aller
 to go,aller
 to hear me,m'entendre
@@ -610,6 +622,7 @@ to stay,rester
 to study,étudier
 to swim,nager
 to take,prendre
+to talk about,parler de
 to the,au
 to turn off,éteindre
 to walk,marcher
@@ -682,6 +695,7 @@ without,sans
 woman,femme
 work,travail
 work,travaille
+world,monde
 worried,inquiet
 year,année
 yes,oui
