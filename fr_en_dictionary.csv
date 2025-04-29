@@ -1,3 +1,4 @@
+2 p.m.,quatorze heures
 7 p.m.,dix-neuf heures
 8 p.m.,vingt heures
 a bit,un peu
@@ -7,9 +8,12 @@ a lot,beaucoup
 about,sur
 actually,en fait
 after,après
+afternoon,après-midi
 again,à nouveau
 airport,aéroport
 all day long,toute la journée
+all night long,toute la nuit
+all,tous
 all,tout
 all,toutes
 also,aussi
@@ -31,6 +35,7 @@ aunt,tante
 auto repair shop,garage
 baby,bébé
 bad, mauvaise
+bad,mauvais
 badly,mal
 bag,sac
 bakery,boulangerie
@@ -39,10 +44,12 @@ band,groupe
 bank,banque
 bathroom,salle de bain
 bathroom,toilettes
+bear,ours
 beautiful,beaux
 beautiful,belle
 because, parce que
 bed,lit
+beds,lits
 beer,bière
 before leaving,avant de partir
 behind, derrière
@@ -66,6 +73,7 @@ boy,garçon
 boyfriend,copain
 bread,pain
 breakup,rupture
+brother,frère
 but,mais
 cake,gâteau
 can help me,peux m'aider
@@ -78,6 +86,7 @@ cats,chats
 cellphone,portable
 chair,chaise
 chairs,chaises
+cheap,pas cher
 cheap,pas chère
 cheese,fromage
 child,enfant
@@ -130,6 +139,7 @@ driver,chauffeur
 drives,conduit
 ear,oreille
 early,tôt
+easy,facile
 easy,faciles
 eggs,œufs
 eight,huit
@@ -156,6 +166,7 @@ father,père
 favorite,préféré
 favorite,préférée
 fifteen,quinze
+fifty,cinquante
 finishes,finit
 first,d'abord
 first,première
@@ -275,6 +286,7 @@ I remember,je me souviens
 I want,je veux
 I watered,j'ai arrosé
 I would like,j'aimerais
+I write,j'écris
 I'm ashamed,j'ai honte
 I'm bored,je m'ennuie
 I'm cold,j'ai froid
@@ -300,6 +312,8 @@ is right,a raison
 is something wrong,ça ne va pas
 it costs,ça coûte
 it doesn't work,il ne marche pas
+it is dark,il fait nuit
+it is not,il n'est pas
 it is,il est
 it isn't,ce n'est pas
 it takes,ça prend
@@ -327,6 +341,7 @@ late,en retard
 late,tard
 leaves,part
 left,à gauche
+letter,lettre
 library,bibliothèque
 life,vie
 lifeguard,maître-nageuse
@@ -344,6 +359,7 @@ love,adores
 love,amour
 lovely,joli
 lunch,déjeuner
+lying,mentir
 man,homme
 March,mars
 married,mariée
@@ -377,6 +393,7 @@ never,jamais
 new,nouveau
 new,nouvel
 new,nouvelle
+next to the,à côté des
 next to,à côté de
 next,prochain
 nice to meet you,enchanté
@@ -387,8 +404,10 @@ nice,jolie
 nice,sympa
 noise,bruit
 noon,midi
+nose,nez
 not now,pas maintenant
 not,pas
+nothing,rien
 now,maintenant
 of course not,mais non
 of course,bien sûr
@@ -414,6 +433,8 @@ our,notre
 outside,dehors
 pair of pants,pantalon
 park,parc
+parrot,perroquet
+party,fête
 party,soirée
 passport,passeport
 people,gens
@@ -448,6 +469,7 @@ ready,prête
 really,tellement
 really,vraiment
 recipe,recette
+recycling,recyclage
 red,rouge
 red,rouges
 responsible,responsable
@@ -455,6 +477,7 @@ rice,riz
 river,rivière
 road,route
 roller coaster,montagnes russes
+room,chambre
 room,pièce
 roommate,colocataire
 Russian,russe
@@ -465,6 +488,7 @@ school,école
 seat,place
 seats,places
 see you on Friday, à vendredi
+seems,a l'air
 sees, voit
 send,envoie
 several,plusieurs
@@ -508,6 +532,7 @@ Spanish,espagnol
 Spanish,espagnols
 speak,parles
 square,place
+stands up,se lève
 starts doing,commence à faire
 starts doing,commence à faire
 still,encore
@@ -560,6 +585,7 @@ there is,il y a
 there was,il y avait
 there you are,voilà
 there,là
+these,ces
 they are looking at,ils regardent
 they hear,ils entendent
 they live,elles habitent
@@ -600,10 +626,13 @@ to exercise,faire du sport
 to find,trouver
 to fish,pêcher
 to get out,sortir
+to give,donner
 to go,aller
 to go,aller
 to hear me,m'entendre
+to help me,m'aider
 to her place,chez elle
+to invite,inviter
 to know,savoir
 to learn,apprendre
 to look at,regarder
@@ -640,6 +669,7 @@ too,aussi
 too,trop
 towards,vers
 towel,serviette
+town,ville
 train station,gare
 trash can,poubelle
 trip,voyage
@@ -657,6 +687,7 @@ video game,jeu vidéo
 video games,jeux vidéo
 view,vue
 wait,attendez
+waiter,serveur
 wakes up,se réveille
 walks,marche
 water,eau
@@ -672,6 +703,7 @@ weird,bizarre
 welcome,bienvenue
 well,bien
 well,eh bien
+what do you mean,comment ça
 what is it that,qu'est-ce que
 what,quel
 what,quelle
@@ -713,6 +745,8 @@ you look,tu as l'air
 you must go,il faut aller
 you must,tu dois
 you need,tu as besoin de
+you prefer,vous préférez
+you rest,tu te reposes
 you sit down,tu tassieds
 you started,tu as démarré
 you take,tu prends
@@ -732,37 +766,3 @@ your,tes
 your,ton
 your,vos
 your,votre
-you rest,tu te reposes
-2 p.m.,quatorze heures
-to invite,inviter
-all,tous
-party,fête
-stands up,se lève
-cheap,pas cher
-easy,facile
-seems,a l'air
-all night long,toute la nuit
-room,chambre
-I write,j'écris
-to help me,m'aider
-it is not,il n'est pas
-recycling,recyclage
-you prefer,vous préférez
-waiter,serveur
-these,ces
-afternoon,après-midi
-nose,nez
-next to the,à côté des
-town,ville
-letter,lettre
-to give,donner
-lying,mentir
-bad,mauvais
-parrot,perroquet
-it is dark,il fait nuit
-nothing,rien
-bear,ours
-beds,lits
-fifty,cinquante
-what do you mean,comment ça
-brother,frère
