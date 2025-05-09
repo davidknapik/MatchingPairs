@@ -18,6 +18,7 @@ all,tout
 all,toutes
 also,aussi
 always,toujours
+am not hungry,n'ai pas faim
 American,américain
 and,et
 another,un autre
@@ -26,6 +27,7 @@ anyway,quand même
 are preparing,prépares
 are you,êtes-vous
 are,sont
+at all,du tout
 at home,à la maison
 at school,à l'école
 at the,au
@@ -49,6 +51,7 @@ beautiful,beaux
 beautiful,belle
 because, parce que
 bed,lit
+bedroom,chambre
 beds,lits
 beer,bière
 before leaving,avant de partir
@@ -102,6 +105,7 @@ coat,manteau
 coffee,café
 color,couleur
 come on, allez
+come,viens
 comes back home,rentre
 comes home,rentre
 company,entreprise
@@ -134,9 +138,11 @@ dogs,chiens
 don't remember,ne me souviens pas
 door,porte
 dough,pâte
+dreams,rêves
 drinks,boissons
 driver,chauffeur
 drives,conduit
+during,pendant
 ear,oreille
 early,tôt
 easy,facile
@@ -171,7 +177,7 @@ finishes,finit
 first,d'abord
 first,première
 fish,poisson
-five years ago,ily a cinq ans
+five years ago,il y a cinq ans
 five,cinq
 floor,étage
 flour,farine
@@ -183,6 +189,7 @@ forget me,oublie-moi
 four hundred,quatre cents
 fridge,frigo
 friend,ami
+friend,amie
 friends,copains
 from the,du
 fun,amusant
@@ -198,6 +205,7 @@ girlfriend,copine
 girlfriend,petite amie
 gives,donne
 glasses,lunettes
+go back home,rentre à la maison
 go,allez
 goes,va
 good evening,bonsoir
@@ -214,9 +222,12 @@ great,génial
 great,super
 green,vert
 green,verte
+hair,cheveux
+hand,main
 hands,mains
 handsome,beau
 happy,content
+happy,contente
 happy,heureux
 has to do,doit faire
 have a good trip,bon voyage
@@ -237,6 +248,7 @@ head,tête
 health,santé
 hello,bonjour
 her friend,son ami
+her,elle
 her,son
 here is,voilà
 here,ici
@@ -282,10 +294,12 @@ I like her,je l'aime
 I liked her,je l'aimais bien
 I love,j'aime
 I need,j'ai besoin de
+I pay,je paye
 I remember,je me souviens
 I want,je veux
 I watered,j'ai arrosé
 I would like,j'aimerais
+I would like,je voudrais
 I write,j'écris
 I'm ashamed,j'ai honte
 I'm bored,je m'ennuie
@@ -318,6 +332,8 @@ it is,il est
 it isn't,ce n'est pas
 it takes,ça prend
 it,il
+it'll be OK,ça va aller
+it's art,c'est de l'art
 it's here,c'est ici
 it's hot,il fait chaud
 it's OK,ça va
@@ -341,6 +357,7 @@ late,en retard
 late,tard
 leaves,part
 left,à gauche
+let's go,allons
 letter,lettre
 library,bibliothèque
 life,vie
@@ -357,6 +374,7 @@ looks at,regarde
 lost,perdu
 love,adores
 love,amour
+love,l'amour
 lovely,joli
 lunch,déjeuner
 lying,mentir
@@ -376,6 +394,7 @@ mix,mélangent
 mom,maman
 money,argent
 more,plus
+more,plus de
 mother,mère
 movie,film
 museum,musee
@@ -411,6 +430,7 @@ nothing,rien
 now,maintenant
 of course not,mais non
 of course,bien sûr
+of,de
 office,bureau
 often,souvent
 OK,d'accord
@@ -426,11 +446,14 @@ on, sur
 one hundred,cent
 one of the two,un des deux
 one,une
+only,juste
 open,ouvre
 opens,ouvre
 or,ou
+other,autres
 our,notre
 outside,dehors
+painting,tableau
 pair of pants,pantalon
 park,parc
 parrot,perroquet
@@ -482,6 +505,7 @@ room,pièce
 roommate,colocataire
 Russian,russe
 sad,triste
+salad,salade
 salt,sel
 same,mêmes
 school,école
@@ -506,9 +530,11 @@ sick,malade
 since,depuis
 singer,chanteur
 single,célibataire
+sir,monsieur
 sister,sœur
 sit down,assieds-toi
 small, petit
+small,petite
 smart,intelligente
 sneezes,éternue
 so happy,trop content
@@ -593,6 +619,7 @@ they look for,elles cherchent
 they look,elles regardent
 they talk,elles parlent
 they work,elles travaillent
+thing,chose
 things,choses
 thirteen,treize
 thirty,trente
@@ -610,7 +637,6 @@ time,temps
 tired,fatigué
 tired,fatiguée
 to believe,croire
-to buy,acheter
 to buy,acheter
 to choose,choisir
 to clean,nettoyer
@@ -635,6 +661,7 @@ to her place,chez elle
 to invite,inviter
 to know,savoir
 to learn,apprendre
+to live,vivre
 to look at,regarder
 to marry,se marier avec
 to move,déménager
@@ -674,6 +701,8 @@ train station,gare
 trash can,poubelle
 trip,voyage
 trunk,coffre
+Tuesday,mardi
+TV,télé
 twenty,vingt
 two,deux
 unfortunately,malheureusement
@@ -681,6 +710,7 @@ university,université
 us,nous
 usually,d'habitude
 vegetarian,végétarien
+very expensive,très cher
 very well,très bien
 very,très
 video game,jeu vidéo
