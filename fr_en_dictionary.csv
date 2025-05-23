@@ -4,6 +4,7 @@
 a bit,un peu
 a few,quelques
 a lot of,beaucoup de
+a lot of,plein de
 a lot,beaucoup
 about,sur
 actually,en fait
@@ -32,6 +33,7 @@ at home,à la maison
 at school,à l'école
 at the,au
 at Vikram's,chez Vikram
+at your place,chez toi
 at,à
 aunt,tante
 auto repair shop,garage
@@ -47,6 +49,7 @@ bank,banque
 bathroom,salle de bain
 bathroom,toilettes
 bear,ours
+beautiful,beau
 beautiful,beaux
 beautiful,belle
 because, parce que
@@ -70,6 +73,7 @@ bookstore,librairie
 boots,bottes
 boring,ennuyeuse
 both of you,toutes les deux
+bottle,bouteille
 bottles,bouteilles
 boxes,boîtes
 boy,garçon
@@ -77,6 +81,7 @@ boyfriend,copain
 bread,pain
 breakup,rupture
 brother,frère
+brown,marron
 but,mais
 cake,gâteau
 can help me,peux m'aider
@@ -109,11 +114,13 @@ come,viens
 comes back home,rentre
 comes home,rentre
 company,entreprise
+cookbook,livre de cuisine
 cooking class,cours de cuisine
 cooking,cuisiner
 cousin,cousin
 cup,tasse
 cups,tasses
+curtains,rideaux
 cushion,coussin
 customer,cliente
 cute,mignon
@@ -130,6 +137,7 @@ dead,morte
 delicious,délicieux
 diary,journal
 difficult,difficile
+dirty,sale
 dishes,plats
 doctor,médecin
 doesn't need,n'as pas besoin
@@ -156,6 +164,7 @@ engine,moteur
 England,Angleterre
 enjoy your meal,bon appétit
 every day,tous les jours
+every morning,tous les matins
 everyone,tout le monde
 everything,tout
 excuse me,excuse-moi
@@ -166,6 +175,7 @@ expensive,chère
 eyes,yeux
 face,visage
 family,famille
+famous,célèbre
 far from,loin de
 faster,plus rapide
 father,père
@@ -182,6 +192,7 @@ five,cinq
 floor,étage
 flour,farine
 flowers,fleurs
+food,nourriture
 for how long,combien de temps
 for,pour
 forehead,front
@@ -190,6 +201,7 @@ four hundred,quatre cents
 fridge,frigo
 friend,ami
 friend,amie
+friends,amis
 friends,copains
 from the,du
 fun,amusant
@@ -205,6 +217,7 @@ girlfriend,copine
 girlfriend,petite amie
 gives,donne
 glasses,lunettes
+glasses,verres
 go back home,rentre à la maison
 go,allez
 goes,va
@@ -214,18 +227,22 @@ good,bon
 good,bonne
 goodbye,au revoir
 goodnight,bonne nuit
+granddaughter,petite-fille
 grandma,mamie
 grandmother,grand-mère
 grandpa,papi
 gray,gris
 great,génial
+great,grand
 great,super
 green,vert
 green,verte
 hair,cheveux
+ham,jambon
 hand,main
 hands,mains
 handsome,beau
+happy birthday,bon anniversaire
 happy,content
 happy,contente
 happy,heureux
@@ -242,11 +259,13 @@ he is fine,il va bien
 he is reading,il lit
 he is talking,il parle
 he is traveling,il voyage
+he is,il est
 he left,il est parti
 he liked,il aimait
 head,tête
 health,santé
 hello,bonjour
+help,aide
 her friend,son ami
 her,elle
 her,son
@@ -281,6 +300,7 @@ I can't find,je ne trouve pas
 I don't eat,je ne mange pas
 I don't have,je n'ai pas
 I don't want to,je ne veux pas
+I emptied,j'ai vidé
 I exercise,je fais du sport
 I feel like,j'ai l'impression
 I feel,je me sens
@@ -292,6 +312,8 @@ I know,je connais
 I lied,j'ai menti
 I like her,je l'aime
 I liked her,je l'aimais bien
+I love you,je t'aime
+I love,j'adore
 I love,j'aime
 I need,j'ai besoin de
 I pay,je paye
@@ -304,6 +326,7 @@ I write,j'écris
 I'm ashamed,j'ai honte
 I'm bored,je m'ennuie
 I'm cold,j'ai froid
+I'm good,ça va
 I'm hot,j'ai chaud
 I'm hungry,j'ai faim
 I'm not,je ne suis pas
@@ -311,6 +334,7 @@ I'm OK,ça va bien
 I'm sick of,j'en ai marre de
 I'm waiting for,j'attends
 ice cream,glace
+ice cream,glaces
 idea,idée
 in front of,devant
 in love,amoureux
@@ -355,6 +379,7 @@ last name,nom de famille
 last,dernière
 late,en retard
 late,tard
+later,plus tard
 leaves,part
 left,à gauche
 let's go,allons
@@ -383,6 +408,7 @@ March,mars
 married,mariée
 math,maths
 me,moi
+meal,repas
 meat,viande
 mechanic,mécanicienne
 meeting,réunion
@@ -393,6 +419,7 @@ milk,lait
 mix,mélangent
 mom,maman
 money,argent
+monkeys,singes
 more,plus
 more,plus de
 mother,mère
@@ -402,6 +429,7 @@ museum,musée
 must know,dois connaître
 my house,chez moi
 my name is,je m'appelle
+my place,chez moi
 my,ma
 my,mes
 my,mon
@@ -423,6 +451,7 @@ nice,jolie
 nice,sympa
 noise,bruit
 noon,midi
+north,nord
 nose,nez
 not now,pas maintenant
 not,pas
@@ -438,6 +467,7 @@ okay,d'accord
 old,vieille
 old,vieilles
 older than,plus vieux que
+older,plus vieille
 on a plane,dans un avion
 on a trip,en voyage
 on TV,à la télé
@@ -455,6 +485,7 @@ our,notre
 outside,dehors
 painting,tableau
 pair of pants,pantalon
+pants,pantalon
 park,parc
 parrot,perroquet
 party,fête
@@ -474,9 +505,11 @@ piece of advice,conseil
 pink,rose
 plane ticket,billet d'avion
 plane,avion
+plate,assiette
 player,joueur
 pleasant,agréable
 please,"s'il te plaît"
+please,s'il vous plaît
 potatoes,pommes de terre
 practice,répétition
 pretty,joli
@@ -489,6 +522,7 @@ racket,raquette
 read,lis
 ready,prêt
 ready,prête
+ready,prêts
 really,tellement
 really,vraiment
 recipe,recette
@@ -500,6 +534,7 @@ rice,riz
 river,rivière
 road,route
 roller coaster,montagnes russes
+roof,toit
 room,chambre
 room,pièce
 roommate,colocataire
@@ -519,13 +554,16 @@ several,plusieurs
 she is,elle est
 she left you,elle t'a quitté
 she loved me,elle m'aimait
+she plays,elle joue
 she sees,elle voit
 she,elle
 shhh,chut
 shirt,chemise
 shoes,chaussures
+shop,magasin
 show,émission
 shower,douche
+shy,timide
 sick,malade
 since,depuis
 singer,chanteur
@@ -536,6 +574,7 @@ sit down,assieds-toi
 small, petit
 small,petite
 smart,intelligente
+smiles,sourit
 sneezes,éternue
 so happy,trop content
 so,alors
@@ -553,14 +592,17 @@ soon,bientôt
 sorry,désolé
 sorry,désolée
 sorry,pardon
+south,sud 
 space,place
 Spanish,espagnol
 Spanish,espagnols
 speak,parles
+spider,araignée
 square,place
 stands up,se lève
 starts doing,commence à faire
 starts doing,commence à faire
+starts,commence
 still,encore
 stomach,estomac
 stop,arrête
@@ -575,6 +617,7 @@ subway,métro
 sugar,sucre
 suitcase,valise
 sun,soleil
+sunglasses,lunettes de soleil
 supermarket,supermarché
 swimming pool, piscine
 swimsuit, maillot de bain
@@ -661,6 +704,7 @@ to her place,chez elle
 to invite,inviter
 to know,savoir
 to learn,apprendre
+to leave,partir
 to live,vivre
 to look at,regarder
 to marry,se marier avec
@@ -672,6 +716,7 @@ to rain,pleuvoir
 to read,lire
 to run,courir
 to see her,la voir
+to sleep,dormir
 to speak,parler
 to spend,passer
 to stay,rester
@@ -679,6 +724,7 @@ to study,étudier
 to swim,nager
 to take,prendre
 to talk about,parler de
+to the doctor's,chez le médecin
 to the,au
 to turn off,éteindre
 to walk,marcher
@@ -694,6 +740,7 @@ too late,trop tard
 too much,trop de
 too,aussi
 too,trop
+toothbrush,brosse à dents
 towards,vers
 towel,serviette
 town,ville
@@ -720,14 +767,17 @@ wait,attendez
 waiter,serveur
 wakes up,se réveille
 walks,marche
+wall,mur
 water,eau
 waves at her,lui fait signe
 we are going,nous allons
+we are going,on va
 we are,nous sommes
 we eat,nous mangeons
 we have,nous avons
 we must,il faut
 we,nous
+week,semaine
 weeks,semaines
 weird,bizarre
 welcome,bienvenue
@@ -745,6 +795,7 @@ where is,où est
 where,où
 which,quelle
 white,blanc
+white,blanches
 white,blancs
 who are you,qui êtes-vous
 who,qui
