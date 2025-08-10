@@ -13,7 +13,8 @@ def capture_and_ocr():
 
    # Initialize EasyOCR reader (specify languages)
    reader = easyocr.Reader(['fr', 'en'], gpu=False)  # English and French
-
+   # reader = easyocr.Reader(['en'], recog_network='duolingo', gpu=False)  # English and French
+   
    # Perform OCR using EasyOCR (tweak EasyOCR settings here)
    results = reader.readtext(np.array(img), min_size=0, ycenter_ths=0.9,height_ths=0.9, width_ths=0.9, decoder='greedy' )
 
