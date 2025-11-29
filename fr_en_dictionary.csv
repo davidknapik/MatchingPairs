@@ -2,6 +2,7 @@
 7 p.m.,dix-neuf heures
 8 p.m.,vingt heures
 a bit,un peu
+a drawing,un dessin
 a few,quelques
 a lot of,beaucoup de
 a lot of,plein de
@@ -29,6 +30,7 @@ another,un autre
 another,une autre
 anyway,quand même
 are preparing,prépares
+are right,as raison
 are you,êtes-vous
 are,sont
 at all,du tout
@@ -53,6 +55,7 @@ bank,banque
 bathroom,salle de bain
 bathroom,toilettes
 bear,ours
+beard,barbe
 beautiful,beau
 beautiful,beaux
 beautiful,belle
@@ -71,6 +74,7 @@ big,grande
 big,gros
 birthday,anniversaire
 blood,sang
+body,corps
 book,livre
 books,livres
 bookstore,librairie
@@ -81,6 +85,7 @@ both of you,toutes les deux
 bottle,bouteille
 bottles,bouteilles
 boxes,boîtes
+boxing,la boxe
 boy,garçon
 boyfriend,copain
 bread,pain
@@ -91,6 +96,7 @@ brother,frère
 brown,marron
 but,mais
 cake,gâteau
+campsite,camping
 can help me,peux m'aider
 canceled,annulé
 candy,bonbons
@@ -118,6 +124,7 @@ clothes,vêtements
 coach,entraîneur
 coat,manteau
 coffee,café
+cold,froid
 color,couleur
 come on, allez
 come,viens
@@ -144,7 +151,9 @@ day off,jour de repos
 day,journée
 dead,mort
 dead,morte
+December,décembre
 delicious,délicieux
+device,appareil
 diary,journal
 difficult,difficile
 dirty,sale
@@ -176,6 +185,7 @@ ending,fin
 engine,moteur
 England,Angleterre
 enjoy your meal,bon appétit
+era,époque
 evening,soirée
 every day,tous les jours
 every morning,tous les matins
@@ -191,6 +201,7 @@ face,visage
 family,famille
 famous,célèbre
 far from,loin de
+fashion,mode
 faster,plus rapide
 faster,plus vite
 father,père
@@ -200,10 +211,12 @@ fifteen,quinze
 fifty,cinquante
 finishes,finit
 first,d'abord
+first,premier
 first,première
 fish,poisson
 five years ago,il y a cinq ans
 five,cinq
+flat tire,pneu crevé
 floor,étage
 flour,farine
 flowers,fleurs
@@ -212,6 +225,7 @@ for how long,combien de temps
 for,pour
 forehead,front
 forget me,oublie-moi
+forks,fourchettes
 four hundred,quatre cents
 free,gratuite
 fridge,frigo
@@ -223,6 +237,7 @@ from the,du
 fun,amusant
 funny,amusante
 funny,drôle
+future,avenir
 game, match
 garden,jardin
 garlic,ail
@@ -259,6 +274,7 @@ great,grand
 great,super
 green,vert
 green,verte
+habit,habitude
 hair,cheveux
 ham,jambon
 hand,main
@@ -394,6 +410,7 @@ it takes,ça prend
 it,il
 it'll be OK,ça va aller
 it's art,c'est de l'art
+it's dark,il fait nuit
 it's here,c'est ici
 it's hot,il fait chaud
 it's OK,ça va
@@ -423,8 +440,11 @@ later,plus tard
 leather,cuir
 leaves,part
 left,à gauche
+left,gauche
 less,moins
+let's go in,entrons
 let's go,allons
+let's prepare,préparons
 letter,lettre
 library,bibliothèque
 life,vie
@@ -480,10 +500,13 @@ myself,moi-même
 name,nom
 name,prénom
 neighbor,voisin
+neighbors,voisins
 never,jamais
 new,nouveau
 new,nouvel
 new,nouvelle
+newspaper,journal
+next door,d'à côté
 next to the,à côté des
 next to,à côté de
 next,prochain
@@ -524,10 +547,12 @@ one hundred,cent
 one of the two,un des deux
 one,une
 only,juste
+open it,ouvre-le
 open,ouvre
 opens,ouvre
 or,ou
 other,autres
+others,autres
 our,notre
 outside,dehors
 painting,tableau
@@ -558,6 +583,7 @@ player,joueur
 pleasant,agréable
 please,"s'il te plaît"
 please,s'il vous plaît
+poor,pauvre
 potatoes,pommes de terre
 practice,répétition
 pretty,joli
@@ -568,6 +594,7 @@ puts on,met
 puts,met
 quickly,vite
 racket,raquette
+rarely,rarement
 read,lis
 ready,prêt
 ready,prête
@@ -596,6 +623,7 @@ salad,salade
 salt,sel
 same,même
 same,mêmes
+Saturday,samedi
 school,école
 seat,place
 seats,places
@@ -633,6 +661,7 @@ smiles,sourit
 sneezes,éternue
 so happy,trop content
 so,alors
+so,donc
 so,trop
 soccer,football
 social media,réseaux sociaux
@@ -661,6 +690,7 @@ starts doing,commence à faire
 starts,commence
 still,encore
 stomach,estomac
+stop drinking,arrête de boire
 stop,arrête
 store,magasin
 street,rue
@@ -675,6 +705,7 @@ suitcase,valise
 sun,soleil
 sunglasses,lunettes de soleil
 supermarket,supermarché
+sweater,pull
 swimming pool, piscine
 swimsuit, maillot de bain
 take,prends
@@ -692,6 +723,7 @@ team,équipe
 thank you,merci
 thanks,merci
 that big,aussi grande
+that one,celui-là
 that smells,ça sent
 that,ça
 that,cette
@@ -726,10 +758,12 @@ they work,elles travaillent
 thin,mince
 thing,chose
 things,choses
+thirst,soif
 thirteen,treize
 thirty,trente
 this is,c'est
 this is,voici
+this one,celui-ci
 this,ce
 this,ceci
 this,cette
@@ -762,6 +796,7 @@ to find,trouver
 to fish,pêcher
 to get out,sortir
 to give,donner
+to give,offrir
 to go home,rentrer
 to go,aller
 to go,aller
@@ -779,12 +814,15 @@ to move,déménager
 to play sports,faire du sport
 to play,jouer
 to propose,demander en mariage
+to put it on,le mettre
 to rain,pleuvoir
 to read,lire
 to run,courir
 to see her,la voir
+to show,montrer
 to sleep,dormir
 to smoke,fumer
+to snow,neiger
 to speak,parler
 to spend,passer
 to stay,rester
@@ -797,6 +835,7 @@ to the,au
 to turn off,éteindre
 to walk,marcher
 to wash,laver
+to wear,porter
 to win,gagner
 to write,écrire
 to,à
@@ -814,6 +853,7 @@ toothbrush,brosse à dents
 towards,vers
 towel,serviette
 town,ville
+toy,jouet
 train station,gare
 trash can,poubelle
 trip,voyage
@@ -822,10 +862,12 @@ Tuesday,mardi
 TV,télé
 twenty,vingt
 two,deux
+umbrella,parapluie
 unfortunately,malheureusement
 university,université
 us,nous
 usually,d'habitude
+vacation,vacances
 vegetarian,végétarien
 very expensive,très cher
 very well,très bien
@@ -854,8 +896,10 @@ week,semaine
 weeks,semaines
 weird,bizarre
 welcome,bienvenue
+welcome,bienvenus
 well,bien
 well,eh bien
+what do you do,vous faites quoi
 what do you mean,comment ça
 what is it that,qu'est-ce que
 what,quel
